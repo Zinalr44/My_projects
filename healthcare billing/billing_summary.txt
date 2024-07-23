@@ -1,0 +1,8 @@
+Total Records: 110
+Duplicate Records: 0
+Invalid Amount Entries: 0
+Invalid Status Entries: 0
+Billing Cycle (days): 99
+Average Payment: 479.3090181019999
+Discrepancies: 0
+Late Payments: 0
